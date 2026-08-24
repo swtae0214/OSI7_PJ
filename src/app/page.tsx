@@ -49,7 +49,7 @@ export default function Home() {
           <div className="flex items-center gap-2">
             <span className="font-bold text-slate-300">OSI Interactive Lab</span>
             <span>•</span>
-            <span>성원님을 위한 맞춤형 네트워크 인터랙티브 시뮬레이터</span>
+            <span>네트워크 인터랙티브 시뮬레이터</span>
           </div>
 
           <div className="flex items-center gap-4 text-slate-400">

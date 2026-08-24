@@ -18,7 +18,7 @@ export const PRESET_PACKETS: PacketPreset[] = [
     id: "https-login",
     label: "🔐 보안 로그인 요청 (HTTPS POST)",
     protocol: "HTTPS",
-    message: "POST /api/login HTTP/1.1 { id: 'sungwon', pw: '***' }",
+    message: "POST /api/login HTTP/1.1 { id: 'user', pw: '***' }",
     srcPort: 58900,
     dstPort: 443,
     srcIp: "192.168.1.15",
